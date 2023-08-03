@@ -1,6 +1,6 @@
 project:
   owner: quickstart-eng@amazon.com
-  name: quickstart-dotnetcore-fargate-cicd
+  name: cfn-ps-dotnetcore-fargate-cicd
   regions:
     - ap-northeast-1
     - ap-northeast-2
